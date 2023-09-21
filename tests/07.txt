@@ -1,0 +1,5 @@
+#
+# 07.txt - Tester la commande en arrière plan
+xeyes &
+ls
+

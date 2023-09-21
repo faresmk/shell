@@ -1,0 +1,3 @@
+#
+# 02.txt - Tester la gestion des erreurs de commande
+thisisnotacommand

@@ -1,0 +1,4 @@
+#
+# 01_1.txt - Tester la redirection de sortie
+#
+cat < tests/input.txt

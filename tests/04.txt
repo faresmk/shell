@@ -1,0 +1,3 @@
+#
+# 04.txt - Tester la commande pwd
+pwd
